@@ -1,5 +1,7 @@
 # **"Netflix Insights Dashboard"**
 
+Explore the dashboard [here](https://public.tableau.com/app/profile/shivanjali.sharma1221/viz/Netflix_17196783030320/Netflix).
+
 ## Overview
 Welcome to the Netflix Tableau Dashboard project! This interactive dashboard is designed to provide a comprehensive analysis of Netflix's extensive library of movies and TV shows. Leveraging the power of Tableau, this dashboard offers users an intuitive and visually appealing way to explore various aspects of Netflix content.
 
