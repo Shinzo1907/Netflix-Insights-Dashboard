@@ -1,4 +1,4 @@
-# **"Netflix Insights Dashboard"**
+# **Netflix Insights Dashboard**
 
 Explore the dashboard [here](https://public.tableau.com/app/profile/shivanjali.sharma1221/viz/Netflix_17196783030320/Netflix).
 
